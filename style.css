@@ -3,3 +3,15 @@ body {
   height: 100%;
   margin: 0;
 }
+
+header{background-color: cadetblue;}
+h1{
+  text-align: center;background-color: cadetblue;
+}
+
+header nav{text-align: center; background-color: cadetblue;}
+section#featured-property figure{text-align: center;}
+nav a{background-color: cadetblue;}
+figcaption{font-size: small;}
+section#featured-property p {width: 800px;text-align: center; margin:auto;padding: 10px;}
+section#details div{float: left;text-align: center;width: 25%;background-color:cadetblue;}
